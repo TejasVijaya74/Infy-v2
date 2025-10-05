@@ -2,6 +2,7 @@
 
 A full-stack web application that transforms real-time market news into actionable strategic insights using AI.  
 This dashboard provides competitor benchmarking, predictive forecasting, and automated alerting in a clean, interactive interface.
+🔗 **[Live Demo](https://infy-v2.streamlit.app/)**
 
 ---
 
