@@ -1,0 +1,24 @@
+# requirements.txt
+
+# Core data and web libraries
+pandas
+streamlit
+
+# Data collection
+newsapi-python
+
+# Analysis
+vaderSentiment
+transformers
+torch
+
+# Utilities
+requests
+python-dotenv
+
+# Plotting
+matplotlib
+seaborn
+
+# Forecasting
+prophet

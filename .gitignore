@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore Streamlit's local secrets file
+.streamlit/secrets.toml
