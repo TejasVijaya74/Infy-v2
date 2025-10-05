@@ -72,7 +72,7 @@ SLACK_WEBHOOK_URL = "YOUR_SLACK_WEBHOOK_URL"
 streamlit run app.py
 ```
 
-The app will open automatically in your default browser. 🎉
+The app will open automatically in your default browser.
 
 ---
 
