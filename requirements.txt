@@ -19,6 +19,7 @@ python-dotenv
 # Plotting
 matplotlib
 seaborn
+plotly
 
 # Forecasting
 prophet
